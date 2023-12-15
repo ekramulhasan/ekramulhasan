@@ -22,7 +22,5 @@ Skills: Java (core) / PHP / Laravel / VUE JS / JS / HTML / CSS / MySQL / MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekramulhasan&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ekramulhasan)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ekramulhasan)  
 
