@@ -2,7 +2,7 @@
 <h3 align="center"> Knowledge is my tools</h3>
  
 
-![Knowledge is my tools](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/241010570_2070075393141418_7089837377740627240_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=YsH7Ks7gwiQAX_cj8A0&_nc_ht=scontent.fdac20-1.fna&cb_e2o_trans=q&oh=00_AfCWlWfbHIq-QXkS5LRE3u2UyJSlyA7T1SQyNIvnJnfDJQ&oe=659542E0)
+![Knowledge is my tools]([https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/241010570_2070075393141418_7089837377740627240_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=YsH7Ks7gwiQAX_cj8A0&_nc_ht=scontent.fdac20-1.fna&cb_e2o_trans=q&oh=00_AfCWlWfbHIq-QXkS5LRE3u2UyJSlyA7T1SQyNIvnJnfDJQ&oe=659542E0](https://www.facebook.com/photo/?fbid=2070075386474752&set=a.609981542484151))
 
 Intend to work in a developing and competitive environment where strong sense of responsibility and commitment is required where dignity of work presides job satisfaction and place of work provides potential avenues for I earning growing and achieving the top level in the hierarchy of the organization.
 
