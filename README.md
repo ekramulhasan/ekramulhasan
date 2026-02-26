@@ -1,60 +1,29 @@
 <h1 align="center">Hi there 👋, I am Ekramul Hasan</h1>
-<h3 align="center">"Knowledge is my tool"</h3>
+<h3 align="center"> Knowledge is my tools</h3>
+ 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40" alt="Header" />
-</p>
+![Knowledge is my tools]([https://www.facebook.com/photo/?fbid=2070075386474752&set=a.609981542484151])
 
-I am an aspiring software engineer looking to contribute to a competitive and developing environment. I value a strong sense of responsibility and professional growth, aiming to achieve excellence within an organization that prizes innovation and job satisfaction.
+Intend to work in a developing and competitive environment where strong sense of responsibility and commitment is required where dignity of work presides job satisfaction and place of work provides potential avenues for I earning growing and achieving the top level in the hierarchy of the organization.
 
----
+##### Skills: Java (core) / PHP / Laravel / VUE JS / JS / HTML / CSS / MySQL / MongoDB / Bootstrap / Tailwind CSS / Restful API
 
-### 🛠 Skills & Technologies
+- 🔭 I’m currently working on Mysoft Heaven Ltd 
+- 🌱 I’m currently learning Python 
+- 👯 I’m looking to collaborate on Github 
+- 🤔 I’m looking for help with Book, stackoverflow & Chat GPT 
+- 💬 Ask me about dream & passion of software 
 
-**Languages & Frameworks:** `Java (Core)` `PHP` `Laravel` `Vue.js` `JavaScript` `Python` `HTML5` `CSS3`
 
-**Databases & Tools:** `MySQL` `MongoDB` `PostgreSQL` `SQLite` `Firebase` `RESTful APIs` `Bootstrap` `Tailwind CSS`
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekramulhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekramul123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ekramul123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ekramulhasan000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14894568/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ekramulhasan.com/)  
 
----
 
-### 🔭 Current Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekramulhasan)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working at **Mysoft Heaven Ltd**
-- 🌱 I’m currently deepening my knowledge in **Python**
-- 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about my **passion for software architecture** and my dreams in tech
-- 🤔 I’m a frequent user of **Stack Overflow** and **ChatGPT** for continuous learning
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekramulhasan&show_icons=true&count_private=true)  
 
----
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ekramulhasan)  
 
-### 📊 GitHub Statistics
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramulhasan&layout=compact&theme=vision-glow" alt="Top Langs" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ekramulhasan&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=ekramulhasan&theme=radical" alt="GitHub streak stats" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://github.com/ekramulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ekramulhasan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ekramul123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ekramul123" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14894568/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14894568" height="30" width="40" /></a>
-<a href="https://ekramulhasan.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
