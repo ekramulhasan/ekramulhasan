@@ -1,29 +1,95 @@
-<h1 align="center">Hi there 👋, I am Ekramul Hasan</h1>
-<h3 align="center"> Knowledge is my tools</h3>
- 
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Ekramul Hasan</h1>
+<h3 align="center">🚀 Passionate Software Engineer | AI Enthusiast</h3>
 
-![Knowledge is my tools]([https://www.facebook.com/photo/?fbid=2070075386474752&set=a.609981542484151])
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+%7C+Vue+%7C+PHP+Expert;AI+%26+LLM+Learner;Always+Learning+New+Things" />
+</p>
 
-Intend to work in a developing and competitive environment where strong sense of responsibility and commitment is required where dignity of work presides job satisfaction and place of work provides potential avenues for I earning growing and achieving the top level in the hierarchy of the organization.
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ekramulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhasan" />
+</p>
 
-##### Skills: Java (core) / PHP / Laravel / VUE JS / JS / HTML / CSS / MySQL / MongoDB / Bootstrap / Tailwind CSS / Restful API
+---
 
-- 🔭 I’m currently working on Mysoft Heaven Ltd 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with Book, stackoverflow & Chat GPT 
-- 💬 Ask me about dream & passion of software 
+<!-- ================= ABOUT ================= -->
+### 👨‍💻 About Me
+- 🔭 Currently working at **Mysoft Heaven Ltd**
+- 🌱 Learning **Python & AI (LLM, Fine-tuning)**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Laravel, Vue, APIs, System Design**
+- ⚡ Fun fact: *I turn ideas into scalable systems*
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekramulhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekramul123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ekramul123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ekramulhasan000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14894568/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ekramulhasan.com/)  
+<!-- ================= SKILLS BADGES ================= -->
+### 🚀 Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekramulhasan)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekramulhasan&show_icons=true&count_private=true)  
+<!-- ================= SOCIAL ================= -->
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://github.com/ekramulhasan"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/ekramul123/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.facebook.com/ekramul123"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://stackoverflow.com/users/14894568/"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ekramulhasan)  
+---
 
+<!-- ================= STATS ================= -->
+### 📊 GitHub Analytics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekramulhasan&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramulhasan&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ekramulhasan&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ekramulhasan&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekramulhasan&theme=tokyo-night" />
+</p>
+
+---
+
+<!-- ================= QUOTE ================= -->
+### 💡 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  🚀 "Code. Learn. Build. Repeat."
+</p>
